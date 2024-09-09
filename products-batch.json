@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Biscoito Cookies Nestlê",
+    "description": "Cookies sabor chocolate",
+    "price": 11.2,
+    "quantity": 10
+  },
+  {
+    "name": "Coca Cola 2L",
+    "description": "Coca Cola 2 Litros",
+    "price": 10,
+    "quantity": 94
+  },
+  {
+    "name": "Cereal Snow Flakes",
+    "description": "Cereal Matinal Snow flakes",
+    "price": 17.5,
+    "quantity": 38
+  },
+  {
+    "name": "Café Ribeirão Bonito",
+    "description": "Café Ribeirão Bonito Torrado e Moído",
+    "price": 7.49,
+    "quantity": 250
+  }
+]
